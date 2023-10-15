@@ -1,4 +1,4 @@
-## PAWAN MAN MALEGO ##
+## PAWAN MAN MALEGO
 
 Writing in Markdown is _not_ that hard!
 
