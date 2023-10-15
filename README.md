@@ -1,4 +1,4 @@
-## PAWAN MAN MALEGO
+## PAWAN MAN MALEGO ##
 
 Writing in Markdown is _not_ that hard!
 
@@ -17,11 +17,13 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
+
+
 [Search for it.](www.google.com)
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
-#### The Latest News from [the BBC](www.bbc.com/news) 
+#### The Latest News from [the BBC](www.bbc.com/news) ####
 
 Do you want to [see something fun][a fun place]?  
 Well, do I have [the website for you][another fun place]!
@@ -64,6 +66,7 @@ I read this interesting quote the other day:
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
 
+
 * Calculus
     * A professor
     * Has no hair
@@ -74,12 +77,14 @@ I read this interesting quote the other day:
     * Is possibly mentally unwell
 
 1. Cut the cheese
-     >Make sure that the cheese is cut into little triangles.
 
+    Make sure that the cheese is cut into little triangles.
+     
 2. Slice the tomatoes
-     >Be careful when holding the knife.
-  
-     >For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+
+    Be careful when holding the knife.
+
+    For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
